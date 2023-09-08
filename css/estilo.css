@@ -1,0 +1,65 @@
+#caixa {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding: 50px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#caixa2 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    
+}
+
+#caixa3 {
+    width: 300px;
+    height: 300px;
+    background: url(../imagens/camera.png);
+
+}
+
+#caixa3 h1{
+    background: rgba(255, 255, 255, 0.8);
+}
+
+#caixa4 {
+    width: 300px;
+    height: 300px;
+    padding: 8px;
+    margin: 20px;
+    background: #009670;
+    box-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+
+}
+
+#caixa4 h1 {
+    color:white;
+    text-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+}
+
+#caixa5 {
+    width: 300px;
+    height: 300px;
+    padding: 8px;
+    margin: 20px;
+    background: orangered;
+    box-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+
+}
+
+#caixa5 h1 {
+    color:white;
+    text-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+}
+
+
+
+
+
+.arredondamento{
+    border-radius: 150px;
+}
